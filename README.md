@@ -118,30 +118,6 @@ Best model is selected based on **Average Precision (PR-AUC)**.
 | Random Forest       | 0.87             | 0.97   |
 | XGBoost             | 0.87             | 0.98   |
 
----
-
-## 🖥️ Streamlit App Features
-
-### 🔹 Single Prediction
-- Enter transaction details
-- Get fraud probability
-- Risk level classification:
-  - 🟢 Low Risk
-  - 🟡 Medium Risk
-  - 🔴 High Risk
-
----
-
-### 🔹 Batch Prediction
-- Upload CSV file
-- Predict multiple transactions
-- Download flagged results
-
----
-
-### 🔹 Fraud Scoring
-- Probability-based fraud scoring system
-- Real-time inference
 
 ---
 
@@ -183,7 +159,7 @@ Output saved as:  flagged_transactions.csv
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**Tooba Azizullah**  
 Data Science & AI Enthusiast  
 Focus: Machine Learning, Fraud Detection, AI Systems
 
